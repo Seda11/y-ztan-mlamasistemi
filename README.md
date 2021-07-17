@@ -1,1 +1,1 @@
-# y-ztan-mlamasistemi
+# yuztanimlamasistemi
